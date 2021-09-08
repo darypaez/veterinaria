@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Oferta 1",
+    "precio": 1300,
+    "disponible": 17,
+    "descripcion": "Racion Frost12 kg + Collar con identificador"
+  },
+  {
+    "nombre": "Oferta N°2",
+    "precio": 7900,
+    "disponible": 1,
+    "descripcion": "Castillo rascador + Collar con identificador"
+  },
+  {
+    "nombre": "´Pack Bienvenida Gato",
+    "precio": 9200,
+    "disponible": 1,
+    "descripcion": "Racion frost 12kg + Collar con identificador + Castillo rascador"
+  }
+]
